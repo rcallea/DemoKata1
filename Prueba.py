@@ -1,3 +1,3 @@
 class Prueba:
-    def nada(self):
-        i=0
+    def fizzBuzz(self,numero):
+        return "fizz"
