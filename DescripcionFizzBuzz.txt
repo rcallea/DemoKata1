@@ -1,0 +1,4 @@
+Recibe un número
+Retorna fizz si el número es múltiplo de 3
+Retorna buzz si el número es múltipo de 5
+Retorna fizzBuzz sie el número es múltiplo de 15
